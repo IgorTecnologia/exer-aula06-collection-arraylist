@@ -1,4 +1,4 @@
-# Exercício aula06 - collection - arraylist
+# Exercício aula06 - collections - arraylist
 *ArrayList*
 - Atividade solucionada durante o primeiro bloco do programa Developer Jr.Java React Full Stack, da ONG Generation Brasil.
 
